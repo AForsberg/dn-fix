@@ -1,3 +1,3 @@
 (() => {
-	document.querySelector(".paywall").remove();
+  document.querySelector(".paywall").remove();
 })()
